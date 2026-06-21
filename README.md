@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Aryamann 👋
 
-<!--
-**Aryamann687/Aryamann687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 CSE Student at Dayananda Sagar College of Engineering (DSCE), Bengaluru
+* 💻 Passionate about Data Structures & Algorithms
+* 🏆 CodeChef Rating: 1535+
+* 🌱 Currently learning Full Stack Development
+* 💪 Gym enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+* C++
+* Python
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+## 📈 Current Goals
+
+* Reach 4⭐ on CodeChef
+* Solve 300+ LeetCode Problems
+* Build Resume-worthy Full Stack Projects
+* Improve Competitive Programming Skills
+
+## 🔥 Featured Projects
+
+* FitZone Fitness Studio
+* Personal Portfolio Website
+* DSA Practice Repository
+
+## 📫 Connect With Me
+
+* LinkedIn: [Your LinkedIn URL]
+* GitHub: https://github.com/Aryamann687
