@@ -4,7 +4,7 @@
 
 * 🎓 CSE Student at Dayananda Sagar College of Engineering (DSCE), Bengaluru
 * 💻 Passionate about Data Structures & Algorithms
-* 🏆 CodeChef Rating: 1535+
+* 🏆 CodeChef Rating: 1666+
 * 🌱 Currently learning Full Stack Development
 * 💪 Gym enthusiast
 
@@ -32,5 +32,5 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Your LinkedIn URL]
+* LinkedIn: https://www.linkedin.com/in/aryamann-srivastava-566ba4329/
 * GitHub: https://github.com/Aryamann687
