@@ -6,7 +6,7 @@
 * 💻 Passionate about Data Structures & Algorithms
 * 🏆 CodeChef Rating: 1666+
 * 🌱 Currently learning Full Stack Development
-* 💪 Gym enthusiast
+
 
 ## 🛠️ Tech Stack
 
